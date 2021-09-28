@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="css.css"/>
+<title>Menu</title>
+</head>
+<body>
+    <h1>Our Menu</h1>
+    <div class="container">
+      <div class="row">
+        <div class="box col-lg-4 col-mg-6"><p>Whole garlic cloves are mild when simmered with chicken in a simple white wine-mustard sauce in this garlic chicken recipe</p><div class="title">Chicken</div></div>
+        <div class="box col-lg-4 col-mg-6"><p>This cooking technique combines the flavours of barbecue cooking with the tenderness of baked meat thanks to the use of vegetable charcoal</p><div class="title">Beef</div></div>
+        <div class="box col-lg-4 col-mg-12"><p>Among the best parts of Filipino cuisine is how it rarely shies away from incorporating a great and wild variety of ingredients into its dishes</p><div class="title">Fish</div></div>
+    </div>
+  </div>
+  </body>
